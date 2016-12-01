@@ -85,7 +85,7 @@ pre {
 /* 06 Primary color */
 
 a {
-  color: #e81c4f;
+    color: #64b1fc;
 }
 
 /* 07 Secondary colors */
@@ -138,6 +138,7 @@ body {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   -moz-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+  background-color: #f6ffff;
 }
 
 h1,
